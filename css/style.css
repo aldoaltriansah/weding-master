@@ -550,7 +550,7 @@ h1, h2, h3, h4, h5, h6, figure {
   /* -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%; */
-  /* border-radius: 50%; */
+  border-radius: 10px;
 }
 @media screen and (max-width: 480px) {
   .timeline > li > .timeline-badge {
