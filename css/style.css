@@ -1071,20 +1071,20 @@ form label {
 }
 .couple-half .groom, .couple-half .bride {
   float: left;
-  -webkit-border-radius: 50%;
+  /* -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  border-radius: 50%;
+  -ms-border-radius: 50%; */
+  border-radius: 10px;
   width: 150px;
   height: 150px;
 }
 .couple-half .groom img, .couple-half .bride img {
   width: 150px;
   height: 150px;
-  -webkit-border-radius: 50%;
+  /* -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  border-radius: 50%;
+  -ms-border-radius: 50%; */
+  border-radius: 10px;
 }
 @media screen and (max-width: 480px) {
   .couple-half .groom, .couple-half .bride {
